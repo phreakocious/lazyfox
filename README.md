@@ -1,11 +1,13 @@
 ## lazyfox.py
 
 LazyFox is a parallelized implementation of Fox -
+
 a community detection algorithm for undirected graphs with support for overlapping communities
 
-most similar algorithms can only assign a node to a single community, where this one can do multiple
+Most similar algorithms can only assign a node to a single community, where this one can do multiple
 
 [algorithm paper](https://peerj.com/articles/cs-1291.pdf)
+
 [adapted from c++](https://github.com/timgarrels/LazyFox)
 
 This Python version was created to get an understanding of the algorithm and experiment with improvements.
